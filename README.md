@@ -24,3 +24,13 @@ As most of the businesses are inclined towards better and comfortable solutions 
 <p align="center">
   <img src="./public/assets/team.png" alt="Meet our team" width="100%">
 </p>
+
+## Screenshots of website
+![Home Page](./images/homepage.png)
+![Card](./images/card.png)
+![About Page](./images/about.png)
+![Reservation Page](./images/reservation.jpeg)
+![How it works](./images/how_it_works.png)
+![About Page](./images/about.png)
+![Sigin Page](./images/signin.png)
+![Signup Page](./images/signup.png)
